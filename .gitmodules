@@ -1,0 +1,3 @@
+[submodule "spring-boot-app-server"]
+	path = spring-boot-app-server
+	url = git@github.com:lcalmsky/spring-boot-app-server.git
